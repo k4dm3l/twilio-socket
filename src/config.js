@@ -13,7 +13,7 @@ const config = {
   accountSID: process.env.ACCOUNT_SID,
   authTokenTwilio: process.env.AUTH_TOKE_TWILIO,
   twilioPhone: process.env.TWILIO_PHONE,
-  testPhone: '3105571909'
+  testPhone: process.env.TEST_PHONE
 }
 
 module.exports = { config }
