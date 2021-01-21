@@ -17,7 +17,7 @@
     "helmet": "^3.22.0",
     "mongoose": "^5.9.16",
     "morgan": "^1.10.0",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "timeago.js": "^4.0.2",
     "twilio": "^3.44.0"
   },
